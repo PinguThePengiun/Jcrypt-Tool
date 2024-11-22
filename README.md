@@ -24,6 +24,6 @@ Image Processing: PIL (Pillow)
 How to Use:
 Clone the repository:
 
-git clone https://github.com/your-username/jcrypt-tool.git  
+git clone https://github.com/PinguThePengiun/Jcrypt-Tool
 Navigate to the project directory and install the dependencies.
 Run the application and explore file encryption or image steganography functionalities.
